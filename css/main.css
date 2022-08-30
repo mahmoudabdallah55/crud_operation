@@ -1,0 +1,19 @@
+
+.product
+{
+    position: relative;
+}
+
+
+.price
+{
+    background-color: tomato;
+    position: absolute;
+    top: 0;
+    right: 30px;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 600px;
+
+}
